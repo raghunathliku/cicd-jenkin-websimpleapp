@@ -7,6 +7,8 @@
 <h2>Added one more line here</h2>
 <h3>line added for cicd jenkin webapp</h3>
 <a href="about.jsp">Go To About Page</a><br><br>
-<a href="info.jsp">My Info</a>
+<a href="info.jsp">My Info</a><br><br>
+<a href="jenkin.jsp">Jenkin Page</a><br><br>
+<a href="jenkin2.jsp">Jenkin2 Page</a><br><br>
 </body>
 </html>
